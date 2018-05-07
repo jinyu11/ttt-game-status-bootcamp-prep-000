@@ -41,4 +41,3 @@ def over?(board)
     over = false
   end
 end
-    
