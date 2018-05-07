@@ -22,7 +22,7 @@ def won?(board)
       win.inspect
     elsif winning_array.all? {|position| board[position] == "O" } == true
       win.inspect 
-      
+
     end
   end
 end
